@@ -1,0 +1,6 @@
+print("enter the first value :")
+a = input()
+print("enter the second value :")
+b = input()
+sum = int(a) + int(b)
+print("the value of " + a + " + " + b + " is : " + str(sum) )
